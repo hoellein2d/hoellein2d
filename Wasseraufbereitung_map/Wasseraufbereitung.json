@@ -37,7 +37,7 @@
                 {
                  "name":"exitURL",
                  "type":"string",
-                 "value":"main.json#return_from_bierscheune"
+                 "value":"main.json#return_from_Wasseraufbereitung"
                 }],
          "type":"tilelayer",
          "visible":true,
