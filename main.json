@@ -96,7 +96,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"foo.mp3"
+                 "value":"wave.flac"
                 }],
          "type":"tilelayer",
          "visible":true,
