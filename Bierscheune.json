@@ -207,6 +207,12 @@
          "imagewidth":1000,
          "margin":0,
          "name":"Bierscheuneinnen",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":961,
          "tileheight":32,
