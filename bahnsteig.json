@@ -221,7 +221,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"main.json#EinstiegspunktBierscheune"
+                                 "value":"main.json#EinstiegTrixmix"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
