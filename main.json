@@ -96,7 +96,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"wave.fla"
+                 "value":"wave.flac"
                 }],
          "type":"tilelayer",
          "visible":true,
