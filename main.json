@@ -126,6 +126,12 @@
          "id":10,
          "name":"Exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"erxitUrl",
+                 "type":"string",
+                 "value":"world:\/\/lobby\/solarpunk.json#start_hell"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":127,
