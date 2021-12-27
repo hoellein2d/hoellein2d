@@ -112,6 +112,12 @@
          "imagewidth":306,
          "margin":1,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Workadventure"
+                }],
          "spacing":2,
          "tilecount":9,
          "tileheight":32,
@@ -135,6 +141,12 @@
          "imagewidth":1152,
          "margin":0,
          "name":"wasseraufbereitung",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":1080,
          "tileheight":32,
@@ -148,6 +160,12 @@
          "imagewidth":1152,
          "margin":0,
          "name":"wasseraufbereitung_occlusion",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":1080,
          "tileheight":32,
@@ -161,6 +179,12 @@
          "imagewidth":4094,
          "margin":0,
          "name":"211209-map_planskizze",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":9525,
          "tileheight":32,
