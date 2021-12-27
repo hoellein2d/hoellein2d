@@ -100,7 +100,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"erxitUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"world:\/\/lobby\/solarpunk.json#start_hell"
                 }],
