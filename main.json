@@ -96,7 +96,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"wave.flac"
+                 "value":"wave.fla"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -269,7 +269,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":30,
+ "nextlayerid":31,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -354,6 +354,16 @@
          "spacing":0,
          "tilecount":627,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"Alte H\u00f6lle"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -373,6 +383,16 @@
          "spacing":0,
          "tilecount":665,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"Alte H\u00f6lle"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -415,6 +435,16 @@
          "spacing":0,
          "tilecount":1161,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"Alte H\u00f6lle"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -485,6 +515,16 @@
          "spacing":0,
          "tilecount":48,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"Alte H\u00f6lle"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -682,6 +722,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"busch_klein",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -797,6 +843,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"baum_mit_felsen",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":81,
          "tileheight":32,
@@ -1150,7 +1202,13 @@
                          "duration":350,
                          "tileid":14
                         }],
-                 "id":0
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"Alte H\u00f6lle"
+                        }]
                 }, 
                 {
                  "animation":[
