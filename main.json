@@ -303,6 +303,12 @@
          "imagewidth":1280,
          "margin":0,
          "name":"211216-bierscheune",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":1600,
          "tileheight":32,
@@ -403,6 +409,12 @@
          "imagewidth":640,
          "margin":0,
          "name":"Baumhaus_Baum",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":400,
          "tileheight":32,
@@ -455,6 +467,12 @@
          "imagewidth":416,
          "margin":0,
          "name":"rc3_2d_functions",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":0,
          "tilecount":26,
          "tileheight":32,
@@ -554,6 +572,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"trecker",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":36,
          "tileheight":32,
@@ -596,6 +620,12 @@
          "imagewidth":160,
          "margin":0,
          "name":"\u00fcberwuchertes_auto",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":20,
          "tileheight":32,
@@ -676,6 +706,12 @@
          "imagewidth":160,
          "margin":0,
          "name":"grasfl\u00e4che",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":25,
          "tileheight":32,
@@ -699,6 +735,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"geb\u00fcsch2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -751,6 +793,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"Birke",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -774,6 +822,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"baum2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -797,6 +851,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"baum",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":8,
          "tileheight":32,
@@ -820,6 +880,12 @@
          "imagewidth":160,
          "margin":0,
          "name":"baum_rund",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":30,
          "tileheight":32,
@@ -872,6 +938,12 @@
          "imagewidth":306,
          "margin":1,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+                }],
          "spacing":2,
          "tilecount":9,
          "tileheight":32,
@@ -923,6 +995,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"tanne2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":18,
          "tileheight":32,
@@ -1066,6 +1144,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"handtuch2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -1089,6 +1173,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"handtuch1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -1112,6 +1202,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"baum-quer-1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -1135,6 +1231,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"bank1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
