@@ -107,7 +107,7 @@
         {
          "columns":9,
          "firstgid":1,
-         "image":"..\/mapUtilities.png",
+         "image":"mapUtilities.png",
          "imageheight":34,
          "imagewidth":306,
          "margin":1,
@@ -136,7 +136,7 @@
         {
          "columns":36,
          "firstgid":10,
-         "image":"..\/wasseraufbereitung.png",
+         "image":"wasseraufbereitung.png",
          "imageheight":960,
          "imagewidth":1152,
          "margin":0,
