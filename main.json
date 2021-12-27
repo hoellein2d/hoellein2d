@@ -1611,6 +1611,12 @@
          "imagewidth":352,
          "margin":0,
          "name":"feuerstelle",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":66,
          "tileheight":32,
