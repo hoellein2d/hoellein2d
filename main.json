@@ -1599,6 +1599,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"trixmixschild",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
