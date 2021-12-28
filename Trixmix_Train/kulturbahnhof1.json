@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"bahnsteig.json#start_kino1"
+                 "value":"bahnsteig.json#start_kino"
                 }],
          "type":"tilelayer",
          "visible":true,
