@@ -344,6 +344,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Workadventure"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -368,6 +374,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"background_animation_single",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"2021 - flederrattie"
+                }],
          "spacing":0,
          "tilecount":84,
          "tileheight":32,
