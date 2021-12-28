@@ -138,11 +138,6 @@
                  "name":"Trickmisch",
                  "properties":[
                         {
-                         "name":"allowApi",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"url",
                          "type":"string",
                          "value":"https:\/\/www.trixmix.tv\/comic_film.html?demo_mode=true&demo_newest=1#load_comic=8d2785fa3415a5383ee23a5eacd34648_3"
@@ -222,6 +217,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Workadventure"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -246,6 +247,12 @@
          "imagewidth":1664,
          "margin":0,
          "name":"Kinosaal",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"2021 - flederrattie"
+                }],
          "spacing":0,
          "tilecount":1040,
          "tileheight":32,
