@@ -195,6 +195,12 @@
          "imagewidth":1000,
          "margin":0,
          "name":"Bierscheuneinnen_occlusion",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Workadventure"
+                }],
          "spacing":0,
          "tilecount":961,
          "tileheight":32,
