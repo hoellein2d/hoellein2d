@@ -1642,6 +1642,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"Heizhauskatze_klein",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Alte H\u00f6lle - Team EFFORT"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
